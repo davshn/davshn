@@ -33,8 +33,8 @@ const davshn = {
 - 
 ### -Stats :battery:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davshn)](https://github.com/anuraghazra/github-readme-stat)
+![Davshn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davshn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

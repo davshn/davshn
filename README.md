@@ -22,7 +22,7 @@ const davshn = {
     architecture: [],
     techCommunities: {
                         student: " ",
-                        colaborator: "League of Extraordinary Foundry Vtt Developers"
+                        colaborator: ""
                         },
     currentProject: "I am improving my developing skills"
 };

@@ -30,6 +30,7 @@ const davshn = {
 ### -You can find me :satellite:
 - [Facebook](https://www.facebook.com/david.figueroa.184)
 - [Youtube](https://www.youtube.com/user/davshn/)
+- [Twitter](https://twitter.com/Davshmr)
 - 
 ### -Stats :battery:
 

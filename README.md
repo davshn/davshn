@@ -10,14 +10,13 @@ const davshn = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: []
         },
         backEnd: {
             js: ["Node"],
         },
-        devOps: ["AWS", "Docker", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker", "Nginx"],
         databases: ["Mongo", "MySql"],
-        tools: ["Ubuntu", "Visual Studio Code"]
+        tools: ["Terminal", "Visual Studio Code"]
     },
     architecture: [],
     techCommunities: {

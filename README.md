@@ -9,14 +9,14 @@ const davshn = {
     askMeAbout: ["web dev", "tech", "role playing", "videogames"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["React,Redux"],
         },
         backEnd: {
-            js: ["Node"],
+            js: ["Node,Express"],
         },
-        devOps: ["AWS", "Docker", "Nginx"],
-        databases: ["Mongo", "MySql"],
-        tools: ["Terminal", "Visual Studio Code"]
+        devOps: ["AWS", "Docker"],
+        databases: ["Mongo", "PosgreSql"],
+        tools: ["Terminal", "Visual Studio Code","Github"]
     },
     architecture: [],
     techCommunities: {

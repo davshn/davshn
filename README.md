@@ -15,7 +15,7 @@ const davshn = {
             js: ["Node,Express"],
         },
         devOps: ["AWS", "Docker"],
-        databases: ["Mongo", "PosgreSql"],
+        databases: ["Sequalize", "PosgreSql"],
         tools: ["Terminal", "Visual Studio Code","Github"]
     },
     architecture: [],

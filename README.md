@@ -39,6 +39,7 @@ const davshn = {
 
 ![Davshn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)
 
+    Activity This Week
 <!--START_SECTION:waka-->
 ```text
 TypeScript   2 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 % 

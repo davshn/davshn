@@ -38,5 +38,6 @@ const davshn = {
 ### -Stats :battery:
 
 ![Davshn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)
-[![Davshn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davshn)](https://github.com/davshn)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

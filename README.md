@@ -26,7 +26,7 @@ const davshn = {
     techCommunities: {
                         student: ["Henry", "No country"],
                         colaborator: "Foundry Vtt Developers"
-                        },
+    },
     currentProject: "I am improving my developing skills"
 };
 ```

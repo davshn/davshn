@@ -31,10 +31,12 @@ const davshn = {
 };
 ```
 ### -You can find me :satellite:
+- [Portfolio](https://www.davshn.tech/)
+- [Linkedin](https://www.linkedin.com/in/davshn/)
 - [Facebook](https://www.facebook.com/david.figueroa.184)
 - [Youtube](https://www.youtube.com/user/davshn/)
 - [Twitter](https://twitter.com/Davshmr)
-- [Linkedin](https://www.linkedin.com/in/davshn/)
+
 ### -Stats :battery:
 
 ![Davshn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)

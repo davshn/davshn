@@ -1,4 +1,5 @@
 ## Hi there i'm David 👋
+<div style="display:flex;">
 <img src="./loc/css.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/html5.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/javascript.png" alt="drawing" style="width:50px;"/>
@@ -13,7 +14,7 @@
 <img src="./loc/Styled components.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/react-native.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Jest.png" alt="drawing" style="width:50px;"/>
-
+</div>
 
 ### - A little about me 🤔
 ```javascript

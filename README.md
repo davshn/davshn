@@ -1,4 +1,18 @@
 ## Hi there i'm David 👋
+<img src="./loc/css.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/html5.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/javascript.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Node.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/express.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Graph.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Postgress.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/sequelize.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/webpack.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/react.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/redux.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Styled components.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/react-native.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Jest.png" alt="drawing" style="width:50px;"/>
 
 
 ### - A little about me 🤔

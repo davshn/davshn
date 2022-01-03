@@ -27,7 +27,7 @@ const davshn = {
             js: ["React,Redux"],
         },
         backEnd: {
-            js: ["Node,Express"],
+            js: ["Node,Express","GraphQl"],
         },
         databases: {
             sql: ["Sequalize", "PosgreSql"],

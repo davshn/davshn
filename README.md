@@ -56,7 +56,7 @@ const davshn = {
 
 ### -Stats :battery:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davshn&show_icons=true&locale=en&layout=compact" alt="davshn" /></p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davshn)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davshn&show_icons=true&locale=en" alt="davshn" /></p>
 

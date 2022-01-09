@@ -56,7 +56,11 @@ const davshn = {
 
 ### -Stats :battery:
 
-![Davshn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davshn&show_icons=true&locale=en&layout=compact" alt="davshn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davshn&show_icons=true&locale=en" alt="davshn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davshn&" alt="davshn" /></p>
 
     Activity This Week
 <!--START_SECTION:waka-->

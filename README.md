@@ -52,6 +52,8 @@ const davshn = {
 - [Youtube](https://www.youtube.com/user/davshn/)
 - [Twitter](https://twitter.com/Davshmr)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=davshn-ma&theme=onedark)](https://github.com/davshn/github-profile-trophy)
+
 ### -Stats :battery:
 
 ![Davshn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davshn&theme=github_dark&show_icons=true)

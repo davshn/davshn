@@ -63,7 +63,7 @@ const davshn = {
     Activity This Week
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
 TypeScript   3 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.86 % 
 HTML         34 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.13 % 

@@ -64,7 +64,10 @@ const davshn = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 April 2022 - To: 09 April 2022
+
+JavaScript   38 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.82 %
+JSON         5 mins          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.18 %
 ```
 
 <!--END_SECTION:waka-->

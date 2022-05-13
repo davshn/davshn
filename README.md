@@ -24,25 +24,26 @@ const davshn = {
     askMeAbout: ["web dev", "tech", "role playing", "videogames"],
     technologies: {
         frontEnd: {
-            js: ["React,Redux"],
+            js: ["React" , "Redux"],
         },
         backEnd: {
-            js: ["Node,Express","GraphQl"],
+            js: ["Node" , "Express" , "GraphQl"],
         },
         databases: {
-            sql: ["Sequalize", "PosgreSql"],
+            sql: ["Sequalize" , "PosgreSql"],
         },
         mobile: {
             js: ["React Native"],
         },
         devOps: ["AWS"],
-        tools: ["Terminal", "Visual Studio Code","Github"]
+        tools: ["Terminal", "Visual Studio Code","Github", "Photoshop"]
     },
     techCommunities: {
                         student: ["Henry", "No country"],
-                        colaborator: "Foundry Vtt Developers"
+                        employee: "Logistecsa",
+                        colaborator: "League of Extraordinary FoundryVTT Developers"
     },
-    currentProject: "I am improving my developing skills"
+    currentProject: "I`m improving my developing skills"
 };
 ```
 ### -You can find me :satellite:

@@ -40,7 +40,7 @@ const davshn = {
     },
     techCommunities: {
                         student: ["Henry", "No country"],
-                        employee: "Logistecsa",
+                        employee: ["Koscrypt", "Logistecsa"],
                         colaborator: "League of Extraordinary FoundryVTT Developers"
     },
     currentProject: "I`m improving my developing skills"

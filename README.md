@@ -24,18 +24,18 @@ const davshn = {
     askMeAbout: ["web dev", "tech", "role playing", "videogames"],
     technologies: {
         frontEnd: {
-            js: ["React" , "Redux"],
+            ts: ["React" , "Redux"],
         },
         backEnd: {
-            js: ["Node" , "Express" , "GraphQl"],
+            ts: ["Node" , "Express" , "GraphQl"],
         },
         databases: {
             sql: ["Sequalize" , "PosgreSql"],
         },
         mobile: {
-            js: ["React Native"],
+            ts: ["React Native"],
         },
-        devOps: ["AWS"],
+        devOps: ["AWS", "GCP"],
         tools: ["Terminal", "Visual Studio Code","Github", "Photoshop"]
     },
     techCommunities: {
@@ -50,7 +50,6 @@ const davshn = {
 - [Portfolio](https://www.davshn.tech/)
 - [Linkedin](https://www.linkedin.com/in/davshn/)
 - [Facebook](https://www.facebook.com/david.figueroa.184)
-- [Youtube](https://www.youtube.com/user/davshn/)
 - [Twitter](https://twitter.com/Davshmr)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davshn)](https://github.com/davshn/github-profile-trophy)

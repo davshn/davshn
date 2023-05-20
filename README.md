@@ -47,7 +47,7 @@ const davshn = {
 };
 ```
 ### -You can find me :satellite:
-- [Portfolio](https://www.davshn.tech/)
+- [Portfolio](https://www.davshn.com/)
 - [Linkedin](https://www.linkedin.com/in/davshn/)
 - [Facebook](https://www.facebook.com/david.figueroa.184)
 - [Twitter](https://twitter.com/Davshmr)

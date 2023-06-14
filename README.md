@@ -64,7 +64,7 @@ const davshn = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
 No activity tracked
 ```

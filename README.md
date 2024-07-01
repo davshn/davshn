@@ -7,8 +7,6 @@
 <img src="./loc/express.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Graph.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Postgress.png" alt="drawing" style="width:50px;"/>
-<img src="./loc/sequelize.png" alt="drawing" style="width:50px;"/>
-<img src="./loc/webpack.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/react.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/redux.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Styled components.png" alt="drawing" style="width:50px;"/>
@@ -39,7 +37,7 @@ const davshn = {
         tools: ["Terminal", "Visual Studio Code","Github", "Photoshop"]
     },
     techCommunities: {
-                        student: ["Henry", "No country"],
+                        student: ["Henry"],
                         employee: ["Koscrypt", "Logistecsa"],
                         colaborator: "League of Extraordinary FoundryVTT Developers"
     },

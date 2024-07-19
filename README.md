@@ -56,13 +56,4 @@ const davshn = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davshn&" alt="davshn" /></p>
 
-    Activity This Week
-<!--START_SECTION:waka-->
 
-```txt
-From: 09 July 2024 - To: 16 July 2024
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->

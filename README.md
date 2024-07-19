@@ -5,11 +5,9 @@
 <img src="./loc/javascript.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Node.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/express.png" alt="drawing" style="width:50px;"/>
-<img src="./loc/Graph.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Postgress.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/react.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/redux.png" alt="drawing" style="width:50px;"/>
-<img src="./loc/Styled components.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/react-native.png" alt="drawing" style="width:50px;"/>
 <img src="./loc/Jest.png" alt="drawing" style="width:50px;"/>
 </div>
@@ -22,10 +20,10 @@ const davshn = {
     askMeAbout: ["web dev", "tech", "role playing", "videogames"],
     technologies: {
         frontEnd: {
-            ts: ["React" , "Redux"],
+            ts: ["React" , "Redux", "Next.js"],
         },
         backEnd: {
-            ts: ["Node" , "Express" , "GraphQl"],
+            ts: ["Node" , "Express"],
         },
         databases: {
             sql: ["Sequalize" , "PosgreSql"],
@@ -34,11 +32,11 @@ const davshn = {
             ts: ["React Native"],
         },
         devOps: ["AWS", "GCP"],
-        tools: ["Terminal", "Visual Studio Code","Github", "Photoshop"]
+        tools: ["Terminal", "Visual Studio Code","Github"]
     },
     techCommunities: {
                         student: ["Henry"],
-                        employee: ["Koscrypt", "Logistecsa"],
+                        employee: ["Koscrypt", "Logistecsa", "Mento"],
                         colaborator: "League of Extraordinary FoundryVTT Developers"
     },
     currentProject: "I`m improving my developing skills"

@@ -32,14 +32,14 @@ const davshn = {
             ts: ["React Native"],
         },
         devOps: ["AWS", "GCP"],
-        tools: ["Terminal", "Visual Studio Code","Github"]
+        tools: ["Terminal", "Visual Studio Code","Github", "Claude Sonnet", "Copilot"]
     },
     techCommunities: {
                         student: ["Henry"],
                         employee: ["Koscrypt", "Logistecsa", "Mento"],
                         colaborator: "League of Extraordinary FoundryVTT Developers"
     },
-    currentProject: "I`m improving my developing skills"
+    currentProject: "Doing things better"
 };
 ```
 ### -You can find me :satellite:
@@ -51,8 +51,6 @@ const davshn = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=davshn)](https://github.com/davshn/github-profile-trophy)
 
 ### -Stats :battery:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davshn&show_icons=true&locale=en" alt="davshn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davshn&" alt="davshn" /></p>
 

@@ -1,74 +1,58 @@
-# 👋 Hi, I'm David
+# David Figueroa
 
-Senior Mobile Engineer specialized in building secure fintech products.
+Senior Mobile Engineer specialized in secure applications.
 
-I design and implement scalable mobile architectures using React Native, with a strong focus on payment systems, security, and long-term maintainability.
-
----
-
-## 🚀 What I Do
-
-- 📱 Build secure cross-platform mobile applications (React Native)
-- 💳 Integrate payment systems and fintech infrastructures
-- 🔐 Implement mobile security layers (SSL Pinning, integrity validation)
-- 🏗️ Design clean, scalable application architectures
-- ⚙️ Develop backend services using Node.js & NestJS
-- 🧠 Apply security-first engineering principles
+I design and build scalable mobile architectures using React Native, with a strong focus on payment systems, application security, and long-term maintainability.
 
 ---
 
-## 🛠️ Core Technologies
+## Core Expertise
 
-### Mobile
+- Secure mobile application architecture
+- Fintech & payment integrations
+- Mobile security (SSL Pinning, integrity validation)
+- Clean Architecture & scalable design
+- Backend services with Node.js & NestJS
+
+---
+
+## Technology Stack
+
+**Mobile**
 - React Native
 - TypeScript
 - Redux / State Management
-- Mobile Security (SSL Pinning, Runtime Integrity)
 
-### Backend
+**Backend**
 - Node.js
 - NestJS
-- Express
-- RESTful APIs
+- REST APIs
 
-### Databases
+**Database**
 - PostgreSQL
 - Sequelize
 
-### Dev & Cloud
+**Cloud & DevOps**
 - AWS
-- GCP
 - CI/CD
 - GitHub Actions
 
 ---
 
-## 🧠 Engineering Philosophy
+## Architecture Approach
 
+I follow a security-first, layered architecture approach focused on scalability and maintainability.
+
+## Current Focus
+- Secure fintech mobile systems
+- Scalable product architecture
+- Advanced mobile protection strategies
+- High-performance React Native applications
+
+## Engineering Philosophy
 - Clean Architecture over quick hacks
 - Security by design, not as an afterthought
 - Long-term maintainability
 - Performance and scalability first
 - Business-aligned technical decisions
 
----
-
-## 📌 Current Focus
-
-- Secure fintech mobile systems
-- Scalable product architecture
-- Advanced mobile protection strategies
-- High-performance React Native applications
-
----
-
-## 🌍 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/davshn/)
-- 🧑‍💻 [GitHub Projects](https://github.com/davshn)
-
----
-
-## 📊 GitHub Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=davshn)

@@ -47,7 +47,3 @@ work and in personal projects. It lets me deliver **2-3x faster** while keeping 
   for companies, with a React Native app, web dashboard, AI-generated feedback and passwordless OTP auth.
   Built solo as architect and developer.
 - **Foundry VTT:** modules and a custom game system published on the official marketplace.
-
----
-
-Open to freelance work and remote opportunities. Spanish (native) · English (B1).

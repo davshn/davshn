@@ -2,7 +2,7 @@
 
 **Senior Developer** · React Native · Fintech & Secure Payments · Fullstack
 
-7+ years building production mobile and web applications. I currently work on the mobile payment
+8+ years building production mobile and web applications. I currently work on the mobile payment
 experience at **Wompi**, a Colombian fintech payment gateway: Android, iOS and POS terminals,
 Tap to Phone and PCI DSS-compliant security.
 

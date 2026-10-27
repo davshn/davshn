@@ -1,6 +1,6 @@
 # David Figueroa
 
-**Senior Developer** · React Native · Fintech & Secure Payments · Fullstack
+**Senior Developer** · Mobile · Fintech & Secure Payments · Fullstack
 
 8+ years building production mobile and web applications. I currently work on the mobile payment
 experience at **Wompi**, a Colombian fintech payment gateway: Android, iOS and POS terminals,

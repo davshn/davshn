@@ -43,7 +43,7 @@ work and in personal projects. It lets me deliver **2-3x faster** while keeping 
 
 ## Side projects
 
-- **[CyberQuest](https://cyber-quest-landing.vercel.app/)** (beta): gamified cybersecurity training platform
+- **[CyberQuest](https://cyber-quest-landing.vercel.app/)**: gamified cybersecurity training platform
   for companies, with a React Native app, web dashboard, AI-generated feedback and passwordless OTP auth.
   Built solo as architect and developer.
 - **Foundry VTT:** modules and a custom game system published on the official marketplace.
